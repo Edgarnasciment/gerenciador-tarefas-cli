@@ -1,0 +1,10 @@
+[
+  {
+    "descricao": "JOGAR",
+    "feito": false
+  },
+  {
+    "descricao": "BRINCAR",
+    "feito": true
+  }
+]
